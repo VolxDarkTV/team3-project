@@ -1,1 +1,35 @@
 /* style */
+
+/* contact */
+.ms_contact {
+    display: flex;
+    align-items: center;
+    /* DEBUG */
+    height: 850px;
+}
+
+.ms_contact_info {
+    font-size: 20px;
+    /* DEBUG */
+    height: 50px;
+}
+
+#ms_hr-mes {
+    margin-top: 200px;
+}
+
+.ms_form {}
+
+.ms_button_send {
+    background-color: #1abc9c;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px 0;
+    border: none;
+    width: 80px;
+}
+
+.ms_button_send a {
+    text-decoration: none;
+    color: white;
+}
