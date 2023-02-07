@@ -1,4 +1,14 @@
 /* <!-- SECTION PORTFOLIO --> */
+/* Header */
+.ms_link_color{
+    color: #fff;
+}
+.ms_txt_color_navbar{
+    color: #fff;
+}
+.ms_background_color_navbar{
+    background-color: #2c3e50;
+}
 
 .portfolio {
     margin: 30px 0;
