@@ -10,3 +10,95 @@
     background-color: #2c3e50;
 }
 
+.portfolio {
+    margin: 30px 0;
+}
+
+.item-portfolio {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.img-portfolio {
+    width: 400px;
+    border-radius: 15px;
+}
+
+.portfolio-text {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.indent-portfolio {
+    height: 3px;
+    background-color: black;
+    width: 85px;
+    border-radius: 20%;
+}
+
+/* style */
+
+/* contact */
+.ms_contact {
+    display: flex;
+    align-items: center;
+    /* DEBUG */
+    height: 850px;
+}
+
+.ms_contact_info {
+    font-size: 20px;
+    /* DEBUG */
+    height: 50px;
+}
+
+#ms_hr-mes {
+    margin-top: 200px;
+}
+
+.ms_button_send {
+    background-color: #1abc9c;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px 0;
+    border: none;
+    width: 80px;
+}
+
+.ms_button_send a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Footer */
+.ms_container_footer_top_color {
+    background-color: #3a546d;
+}
+
+.ms_container_footer_buttom_color {
+    background-color: #2c3e50;
+}
+
+.ms_footer {
+    color: #fff;
+}
+
+.ms_circle_logo {
+    width: 40px;
+    height: 40px;
+    border: solid white 1px;
+    border-radius: 50%;
+}
+
+.ms_footer_link {
+    text-decoration: none;
+    color: #1abc9c;
+}
+
+.ms_footer_link:hover {
+    text-decoration: underline;
+    color: #1abc9c;
+}
